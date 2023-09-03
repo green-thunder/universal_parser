@@ -1,0 +1,5 @@
+Name,Cssseloctor,Url,Page_number,mainUrl
+jizpi,.text.tran4s > a,https://jizpi.uz/yangiliklar/,1,https://jizpi.uz
+gijduvon.buxoro,.card > a,https://gijduvon.buxoro.uz/news?pageNumber=,5,https://gijduvon.buxoro.uz
+uzbmb.uz,.col-sm-8 > h4.title > a,https://uzbmb.uz/post/category/news?page=,2,https://uzbmb.uz
+gov.uz,p.tabular > a,https://www.gov.uz/oz/news/index?page=,3,https://www.gov.uz
